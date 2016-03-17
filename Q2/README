@@ -1,0 +1,11 @@
+The inn size and total number of soldiers have to be given as input
+
+Each soldier will be in the inn for atleast 1 sec.
+
+There are 2 queues, 1 for yorks and other for lanchesters and there is an entry point into inn.
+
+The queues will ensure that any soldier is not waiting unnecessarily.
+
+And also if york1,york2,york3 are signalled at once to enter the inn, they can enter according to the scheduler,but they enter one after other consecutively.
+
+Please ignore warnings that arise after compilation.

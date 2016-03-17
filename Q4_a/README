@@ -1,0 +1,4 @@
+test.py has pid hard coded. It has to be changed before running.
+Perf test runs for 5 sec , after every 15 sec.
+
+cs_plot.py and cpu_plot.py are used to plot the graph.

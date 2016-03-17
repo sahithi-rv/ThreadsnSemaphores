@@ -1,0 +1,3 @@
+Producer countinuously enters values into the buffer until the program is manually terminated.
+
+Ignore warnings that arise on compilation.

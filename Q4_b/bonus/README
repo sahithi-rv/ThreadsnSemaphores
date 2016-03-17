@@ -1,0 +1,3 @@
+initial input has to be stored in a file named "1".
+
+and there should be no file in the folder whose name begins with a digit.
